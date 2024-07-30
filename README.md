@@ -1,16 +1,19 @@
-# 2024.8月初教程即将更新…………
+一切化繁为简，不再依靠大佬喂饭，独立且躺平：BPB面版上游项目三大更新；不用自定义域名？不用频繁优选IP？不用订阅器？小白必学30秒手搓CF“不死”节点；总结CF节点与域名的结构关系图，帮你省时省力省钱，我的节点我作主
 
-# Cloudflare-workers/pages代理脚本
+https://www.youtube.com/watch?v=8s-ELRuFaeE
+8s-ELRuFaeE
 
-### 注意：本项目独立本地化生成，不依赖订阅器、节点转换等第三方外链引用，无需担心节点被订阅可查
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8s-ELRuFaeE/0.jpg)](https://www.youtube.com/watch?v=8s-ELRuFaeE)
 
-#### 本项目定位懒人小白使用，默认节点都为CF官方IP，所以无需频繁更新客户端优选IP，如有特殊情况会第一时间更新
+1.vless:
+https://730yk.ibmforcloud.workers.dev/6f5a14ca-6a93-43cc-836b-32a2dfad0d83
+https://yk.mynameiszt.eu.org/6f5a14ca-6a93-43cc-836b-32a2dfad0d83
 
-#### workers本地部署：支持vless+ws+tls、trojan+ws+tls、vless+ws、trojan+ws代理节点
+2.trojan:
+https://730ykp.pages.dev/trojan
+https://730ykp.mynameiszt.eu.org/trojan
 
-#### pages本地部署：支持vless+ws+tls、trojan+ws+tls代理节点
 
-#### 支持单节点链接、聚合通用节点订阅、sing-box节点订阅、clash节点订阅
 
 --------------------------------
 
