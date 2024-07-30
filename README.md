@@ -6,15 +6,7 @@ https://www.youtube.com/watch?v=8s-ELRuFaeE
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8s-ELRuFaeE/0.jpg)](https://www.youtube.com/watch?v=8s-ELRuFaeE)
 
-## 1.vless:订阅地址
-https://730yk.ibmforcloud.workers.dev/6f5a14ca-6a93-43cc-836b-32a2dfad0d83
 
-https://yk.mynameiszt.eu.org/6f5a14ca-6a93-43cc-836b-32a2dfad0d83
-
-## 2.trojan:订阅地址
-https://730ykp.pages.dev/trojan
-
-https://730ykp.mynameiszt.eu.org/trojan
 
 
 
@@ -153,36 +145,12 @@ CF Trojan：在网页地址栏输入 https:// workers域名 或者 pages域名 �
 
 最新推荐：[CF vless/trojan永久免费节点教程（五）：不用自定义域名？不用频繁优选IP？不用订阅器？总结CF节点与域名的结构关系图](https://youtu.be/8s-ELRuFaeE)
 
-2024.8月即将更新：…………
+## 1.vless:订阅地址
+https://730yk.ibmforcloud.workers.dev/6f5a14ca-6a93-43cc-836b-32a2dfad0d83
 
-[直播精选回顾：CF workers vless免费节点四大特点，节点被断流阻断问题](https://youtu.be/9OHGpWlfdJ0)
+https://yk.mynameiszt.eu.org/6f5a14ca-6a93-43cc-836b-32a2dfad0d83
 
-[ClouDNS永久免费域名最终教程：CF pages vless自定义域名直接部署](https://youtu.be/PN0BLANXh4I)
+## 2.trojan:订阅地址
+https://730ykp.pages.dev/trojan
 
----------------------------------
----------------------------------
----------------------------------
----------------------------------
-# 优选域名、优选官方IP+反代IP一键脚本：
-
-### CF-CDN优选公共大厂域名脚本，苹果安卓手机平板专用，(请参考教程，在本地网络环境下运行)：
-```
-curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/CFcdnym.sh -o CFcdnym.sh && chmod +x CFcdnym.sh && bash CFcdnym.sh
-```
-------------------------------------------------------------------------
-### CF-优选官方IP+反代IP二合一脚本，苹果安卓手机平板专用，(请参考教程，在本地网络环境下运行)：
-```
-curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/cfip.sh -o cfip.sh && chmod +x cfip.sh && bash cfip.sh
-```
-
--------------------------------------------------------------
-
-### 交流平台：[甬哥博客地址](https://ygkkk.blogspot.com)、[甬哥YouTube频道](https://www.youtube.com/@ygkkk)、[甬哥TG电报群组](https://t.me/+jZHc6-A-1QQ5ZGVl)、[甬哥TG电报频道](https://t.me/+DkC9ZZUgEFQzMTZl)
-
--------------------------------------------------------------
-### 感谢你右上角的star🌟
-[![Stargazers over time](https://starchart.cc/yonggekkk/Cloudflare-workers-pages-vless.svg)](https://starchart.cc/yonggekkk/Cloudflare-workers-pages-vless)
-------------------------------------------------------------------------
-### 代码来源：[ca110us](https://github.com/ca110us/epeius)、[emn178](https://github.com/emn178/js-sha256/blob/master/src/sha256.js)、[3Kmfi6HP](https://github.com/3Kmfi6HP/EDtunnel)、[badafans](https://github.com/badafans/Cloudflare-IP-SpeedTest)、[XIU2](https://github.com/XIU2/CloudflareSpeedTest)
-
-### 声明：所有代码来源于Github社区，并通过ChatGPT进行整合
+https://730ykp.mynameiszt.eu.org/trojan
